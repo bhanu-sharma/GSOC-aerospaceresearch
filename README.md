@@ -8,4 +8,4 @@ decide what else can be tuned on.
 
 The program is a very crude form of scheduler that schedules tasks as mentioned above on the basis of time.  
 Their are many issues to be worked out such as using POSIX time, etc. Currently i'm looking into sched library of python to better the code.  
-The time will be feeded in the string format as mentioned and the code has been written as the above example.  
+The time will be feeded in a string format as mentioned and the code has been written as the above example.  
